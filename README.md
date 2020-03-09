@@ -1,2 +1,5 @@
-# time-goes-by
-#JavaScript30 // #Project2 // #JavaScript Challenge
+# Proyecto 2 del #JavaScript30 Challenge!
+
+Se trata de un reloj
+
+![Demo]()

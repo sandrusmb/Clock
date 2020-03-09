@@ -19,13 +19,13 @@ body {
   border-radius: 50%;
   border: 5px solid white;
   position: relative;
-  background: linear-gradient(90deg, #fc466b 0%, #3f5efb 100%);
 }
 
 .hand {
   position: absolute;
   top: 50%;
   transform-origin: right;
+  transition-timing-function: cubic-bezier(0.52, 1.55, 0.5, -0.59);
 }
 
 .hours {
