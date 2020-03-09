@@ -4,7 +4,7 @@ Se trata de un reloj hecho con HTML, CSS y JavaScript con 3 manecillas que van g
 
 ![Demo](https://github.com/sandrusmb/clock/blob/master/clock.gif?raw=true)
 
-## ¿Qué he aprendido?
+## ¿Qué he aprendido o repasado?
 
 [Transform-origin](https://developer.mozilla.org/es/docs/Web/CSS/transform-origin)
 
